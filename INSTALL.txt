@@ -4,7 +4,7 @@ Tested on Ubuntu 12.04 LTS
 
 Requirements - python3 and python3-serial
 
-python umap.py -P /dev/ttyUSB0 -h
+python3 umap.py -P /dev/ttyUSB0 -h
 (must be run as root)
 
 
